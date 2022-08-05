@@ -1,37 +1,44 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# 🧧 Project Name
 
-# Math Magicians
+Math Magicians
 
-> The Math Magicians Application is a front end application build using the React Library.
+# 📜 Description the project.
 
+The Math Magicians Application is a front end application build using the React Library.
 
-## Live Demo
+## 🏛 Built With
 
-[Live demo](https://github.com/Fadahunsiseyi/math-magicians.git)
-
-## Built With
-
-- HTML
-- CSS
-- Javascript
+- html
+- css
+- js
 - React
+- ES6 Modules
+- following linters standards.
+- following github flows standards.
+- following git flows standards.
+- webpak
 
-## Getting Started
+### 🖥️LIVE DEMO
+You can use Leaderboard by clicking [here]()
 
-### Prerequisites
+## 📑 Authors
 
-- Node
-- NPM ( Node Package Manager )
-- Git and Github Account
+👤 **Ahmed Zaki Yousufi**
+- GitHub: [@Ahmed Zaki Yousufi](https://github.com/zakiyousufi)
+- LinkedIn: [Ahmed Zaki Yousufi](https://www.linkedin.com/in/ahmadzaki-yousufi-055214217/)
 
-### Setup
+## ⚙ Getting Started
+
+To get a local copy up and running... 
+Follow these 
+  ## 📋Setup
 
 - Run git clone on this project at the desired directory:
   ```
-  git clone https://github.com/Fadahunsiseyi/math-magicians.git
+  git clone https://github.com/zakiyousufi/math-magiciant.git
   ```
   ```
-  cd math-magicians
+  cd math-magiciant
   ```
 - Install dependencies
 
@@ -45,28 +52,12 @@
   ```
 - On your favourite browser go to http://localhost:3000/
 
-### Tests
-
-- **Webhint** linter -`npx hint .` on the root directory.
-- **Stylelint** linter - `npx stylelint "**/*.{css,scss}"` on the root directory.
-- **ESLint** linter - `npx eslint .` on the root directory.
-
-## Authors
-
-👤 **Fadahunsi seyi**
-
-- GitHub: [Fadahunsiseyi](https://github.com/Fadahunsiseyi)
-- Twitter: [Fadahunsiseyi_](https://twitter.com/@Fadahunsiseyi_)
-- LinkedIn: [fadahunsi-seyi-samuel](https://www.linkedin.com/in/fadahunsi-seyi-samuel-49191a209/)
-
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
+thanks:
 
-Feel free to check the [issues page](https://github.com/Fadahunsiseyi/math-magicians/issues).
-
-## Show your support
+## 🙏🏻 Show your support
 
 Give a ⭐️ if you like this project!
 
