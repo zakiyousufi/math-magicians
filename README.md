@@ -33,9 +33,9 @@ Clone the repositry and open the command line in the main folder of the project 
 
 ## Authors
 
-- GitHub: [@ahzamir](https://github.com/ahzamir).
-- Twitter: [@YousufiZamir](https://twitter.com/YousufiZamir)
-- LinkedIn: [ahmad-zamir-yousufi](https://www.linkedin.com/in/ahmad-zamir-yousufi-70603317b/)
+- [GitHub](https://github.com/ahzamir).
+- [Twitter](https://twitter.com/YousufiZamir)
+- [LinkedIn](https://www.linkedin.com/in/ahmad-zamir-yousufi-70603317b/)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
