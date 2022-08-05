@@ -8,9 +8,9 @@ The Math Magicians Application is a front end application build using the React 
 
 ## 🏛 Built With
 
-- html
+- sass
 - css
-- js
+- JavaScript
 - React
 - ES6 Modules
 - following linters standards.
