@@ -5,7 +5,7 @@ import './calculator.css';
 class Calculator extends Component {
   constructor() {
     super();
-    this.props()
+    this.props();
     this.state = { };
   }
 
