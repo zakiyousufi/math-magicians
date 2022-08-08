@@ -6,7 +6,8 @@ class App extends React.Component {
     super();
     this.props();
     this.state = {};
-    return (<div className="App"><Calculator />;</div>)
+    return (<div className="App">
+      <Calculator /></div>);
   }
 }
 
